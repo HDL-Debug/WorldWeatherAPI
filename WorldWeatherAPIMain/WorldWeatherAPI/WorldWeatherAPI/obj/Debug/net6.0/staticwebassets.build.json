@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IXq2MRc4BWdyAO9o90fF4ys5Bi1gRcDNjFVkDJHkrrc=",
+  "Source": "WorldWeatherAPI",
+  "BasePath": "_content/WorldWeatherAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
